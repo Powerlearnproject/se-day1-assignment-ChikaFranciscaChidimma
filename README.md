@@ -95,54 +95,83 @@ Ensures software meets quality standards.
 Project Manager:
 
 Oversees project scope, timeline, and budget.
+
 Facilitates communication between stakeholders.
+
 Manages risks and ensures timely delivery.
+
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 Answer:
 
 Integrated Development Environments (IDEs): Provide tools like code editors, debuggers, and compilers in a single interface to enhance productivity.
 
 Examples: Visual Studio Code, IntelliJ IDEA, PyCharm.
+
 Version Control Systems (VCS): Help track changes, collaborate on code, and revert to previous versions if needed.
 
 Examples: Git, Subversion (SVN).
+
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
 Answer:
 
 Tight Deadlines: Use Agile development and prioritize tasks effectively.
+
 Debugging and Fixing Bugs: Implement automated testing and code reviews.
+
 Keeping Up with New Technologies: Engage in continuous learning through courses and hands-on projects.
+
 Communication Gaps: Use clear documentation and regular team meetings.
+
 Security Risks: Follow best practices in cybersecurity and conduct security audits.
+
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
 Answer:
 
 Unit Testing: Tests individual components/functions for correctness.
+
 Integration Testing: Ensures different modules work together as expected.
+
 System Testing: Verifies the entire software application in a real-world scenario.
+
 Acceptance Testing: Confirms if the software meets user requirements before deployment.
+
 Each type is crucial to catch errors early and ensure a high-quality product.
 
 Part 2: Introduction to AI and Prompt Engineering
+
 Define prompt engineering and discuss its importance in interacting with AI models.
+
 Answer:
+
 Prompt engineering is the practice of designing and refining prompts to improve the responses of AI models. It helps users communicate more effectively with AI to get accurate, relevant, and useful outputs.
 
 Importance:
 
 Enhances AI response quality.
+
 Helps in automating tasks efficiently.
+
 Reduces ambiguity and improves accuracy in AI interactions.
+
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 Answer:
+
 Vague Prompt:
+
 "Tell me about Python."
 
 Improved Prompt:
+
 "Explain the key features of Python as a programming language and its common applications in data science."
 
 Why it's more effective:
 
 Specifies the context (programming language).
+
 Targets key features rather than general information.
+
 Focuses on a specific application (data science).
