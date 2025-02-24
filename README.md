@@ -5,6 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 Answer:
 Software engineering is the systematic application of engineering principles to the design, development, testing, deployment, and maintenance of software. It ensures that software is reliable, efficient, scalable, and meets user requirements.
 
@@ -15,13 +16,17 @@ Scalability and Maintainability: Helps in creating software that can scale with 
 Efficiency and Cost Reduction: Reduces development time and costs through efficient methodologies.
 Security and Reliability: Ensures software is secure and performs reliably under different conditions.
 Supports Innovation: Facilitates technological advancements in various industries such as healthcare, finance, and education.
+
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 Answer:
 
 1968 - NATO Conference on Software Engineering: Marked the recognition of software engineering as a discipline to address the "software crisis" caused by increasing software complexity.
 1970 - Introduction of the Waterfall Model: Winston Royce introduced the first structured software development methodology, which became widely used.
 2001 - Agile Manifesto: A significant shift from rigid methodologies to flexible, iterative development approaches, emphasizing collaboration, adaptability, and customer feedback.
+
 List and briefly explain the phases of the Software Development Life Cycle (SDLC).
+
 Answer:
 
 Planning: Define project scope, feasibility, and objectives.
